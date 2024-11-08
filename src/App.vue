@@ -146,7 +146,7 @@
       <div class="card-image">
         <img
           class="object-cover w-full h-48 md:h-96"
-          src="./assets/STAR WARS.png"
+          src="./assets/STARWARS.png"
         />
       </div>
     </div>
