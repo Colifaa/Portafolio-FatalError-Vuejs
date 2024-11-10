@@ -125,7 +125,7 @@
           Proyecto PSeInt - Colección de Juegos
         </h4>
         <p class="font-work_sans pr-12">
-          En este proyecto, mis compañeros y yo desarrollamos una colección de
+          En este proyecto, desarrollamos una colección de
           cinco juegos simples utilizando PSeInt, un software educativo de
           programación en pseudocódigo. El objetivo fue reforzar conceptos
           básicos de programación, lógica y estructura de datos mientras
