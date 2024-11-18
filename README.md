@@ -1,25 +1,13 @@
-<h1 align="center">Welcome to Designer-portfolio 👋</h1>
+<h1 align="center">Welcome to Fatal-Error-portfolio 👋</h1>
 
-<h5 align="center">Spacial Credit goes to : <a target="_blank" href="https://ibb.co/60BY8Qy">@salmanwap</h5>
-
-<hr/>
-
-## A Simple Portfolio Template built with VueJS (Vite) + TailwindCss
-
-<p align="center">
-  <kbd>
-    <img src="https://ibb.co/60BY8Qy](https://i.ibb.co/Dfp4Yd1/dsag.png"></img>
-  </kbd>
-</p>
-
-### **[click here to see Demo](https://desinger-portfolio.netlify.app/)**.
 
 ## Sections
 
-✔️ Home Page Banner
-✔️ Works
-✔️ Testimonial
-✔️ Contact
+✔️ Home
+✔️ Proyectos
+✔️ Experiencia
+✔️ Contacto
+✔️ Skill
 
 ## Getting Started
 
@@ -47,8 +35,4 @@ $ npm run dev
 
 No Restrictions, you can edit, add & sell.
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
-
-Credit goes to : [Adam Wathan](https://codepen.io/adamwathan/pen/QWLEJGr) for portfolio section
