@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Designer-portfolio 👋</h1>
 
-<h5 align="center">Spacial Credit goes to : <a target="_blank" href="https://www.figma.com/@salmanwap">@salmanwap</h5>
+<h5 align="center">Spacial Credit goes to : <a target="_blank" href="https://www.figma.com/@salmanwap](https://ibb.co/60BY8Qy">@salmanwap</h5>
 
 <hr/>
 
