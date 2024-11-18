@@ -8,7 +8,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://ibb.co/60BY8Qy"></img>
+    <img src="https://ibb.co/60BY8Qy](https://i.ibb.co/Dfp4Yd1/dsag.png"></img>
   </kbd>
 </p>
 
